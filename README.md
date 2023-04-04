@@ -19,3 +19,5 @@
   <a href="mailto:ricardofigueiredocamargo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ricardo-figueiredo-camargo-47a35b237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
+
+![snake gif](https://github.com/ricardofigueiredocamargo/ricardofigueiredocamargo/blob/output/github-contribution-grid-snake.svg)
